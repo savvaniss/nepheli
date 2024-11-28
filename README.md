@@ -53,10 +53,5 @@ Before you begin, ensure you have met the following requirements:
 - **Software:** [Git](https://git-scm.com/), [Node.js](https://nodejs.org/) (v14 or later), [Docker](https://www.docker.com/) (optional for containerized deployments)
 - **Hardware:** Minimum 4GB RAM, 20GB free disk space
 
-### Installation
 
-1. **Clone the Repository**
-
-   ```bash
-   git clone https://github.com/yourusername/nepheli.git
-   cd nepheli
+### Prerequisites Idea is initially proposed by Chris Caridis and Savvanis Spyros and its based on opensource lisence
