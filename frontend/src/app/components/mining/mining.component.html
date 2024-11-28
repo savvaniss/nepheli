@@ -1,0 +1,11 @@
+<!-- src/app/components/mining/mining.component.html -->
+
+<h2>Mine a New Block</h2>
+
+<div *ngIf="message" class="alert alert-info">
+  {{ message }}
+</div>
+
+<button class="btn btn-primary" (click)="mineBlock()" [disabled]="isMining">
+  {{ isMining ? 'Mining...' : 'Mine Block' }}
+</button>
