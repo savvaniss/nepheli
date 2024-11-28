@@ -1,8 +1,3 @@
-## Blockchain Name
-
-**Aurelius Chain**
-
----
 
 ## README for Nepheli Cryptocurrency and Aurelius Chain
 
