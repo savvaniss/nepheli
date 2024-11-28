@@ -1,6 +1,3 @@
-
-## README for Nepheli Cryptocurrency and Aurelius Chain
-
 # Nepheli Cryptocurrency
 
 Welcome to the **Nepheli** cryptocurrency repository! Nepheli is a next-generation digital currency designed to provide secure, fast, and scalable transactions for users worldwide. Built on the **Aurelius Chain**, our blockchain offers innovative features that set Nepheli apart in the competitive cryptocurrency landscape.
