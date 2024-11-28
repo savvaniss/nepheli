@@ -7,6 +7,7 @@ import { BlockchainService } from '../../services/blockchain.service';
   selector: 'app-mining',
   templateUrl: './mining.component.html',
   styleUrls: ['./mining.component.css'],
+  standalone: false
 })
 export class MiningComponent {
   message: string = '';

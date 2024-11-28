@@ -7,6 +7,7 @@ import { BlockchainService } from '../../services/blockchain.service';
   selector: 'app-transactions',
   templateUrl: './transactions.component.html',
   styleUrls: ['./transactions.component.css'],
+  standalone: false
 })
 export class TransactionsComponent {
   sender: string = '';

@@ -20,7 +20,7 @@ import { MiningComponent } from './components/mining/mining.component';
   imports: [
     BrowserModule,
     AppRoutingModule,
-    FormsModule, 
+    FormsModule, // Add this
   ],
   providers: [],
   bootstrap: [AppComponent]
