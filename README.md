@@ -1,4 +1,5 @@
 # Nepheli Cryptocurrency
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 
 Welcome to the **Nepheli** cryptocurrency repository! Nepheli is a next-generation digital currency designed to provide secure, fast, and scalable transactions for users worldwide. Built on the **Aurelius Chain**, our blockchain offers innovative features that set Nepheli apart in the competitive cryptocurrency landscape.
 
@@ -53,5 +54,6 @@ Before you begin, ensure you have met the following requirements:
 - **Software:** [Git](https://git-scm.com/), [Node.js](https://nodejs.org/) (v14 or later), [Docker](https://www.docker.com/) (optional for containerized deployments)
 - **Hardware:** Minimum 4GB RAM, 20GB free disk space
 
-
-### Prerequisites Idea is initially proposed by Chris Caridis and Savvanis Spyros and its based on opensource lisence
+## License 
+Idea is initially proposed by Chris Caridis and Savvanis Spyros and its based on opensource lisence
+This project is licensed under the [MIT License](LICENSE).
